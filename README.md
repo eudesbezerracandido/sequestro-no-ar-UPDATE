@@ -8,6 +8,7 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:31AF925659558E623BEB5A967D1E5C9ABB688061$nome=EP.4</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MW5EGA4SCEYTJGPC4U56BKOQNBH36DTB$nome=EP.5</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2299D47AC609F7D38BEFE376807DA97F5007614B$nome=EP.6</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0dc8da3f6f8cbdc98161e779a127338f1a560dce$nome=EP.7</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/3PJKsaH2t6kwMyVFih1vCTnTxk2.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Quando o voo KA29 é sequestrado durante uma viagem de sete horas de Dubai a Londres, Sam Nelson—um talentoso negociador corporativo—tenta usar suas habilidades profissionais para salvar todos a bordo. Essa estratégia de alto risco será sua ruína?</info>
